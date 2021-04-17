@@ -6,11 +6,11 @@
 </h3>
 <br/>
 
-- 👀 I’m interested in video games and books 
-- ✨I'm a very curious person
-- I'm happy helping 
+- 🎮 I’m interested in video games and books 
 - 📫 I'm currently working at IBM for the project Naranja 🍊
-- Always learning
+- 👀 I'm a very curious person
+- ✨ I'm happy helping others
+- 📖 Always learning
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
