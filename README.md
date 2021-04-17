@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hey 👋🏽, I'm @VaninaChachagua  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center"> Hey 👋🏽, I'm @VaninaChachagua  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"></h1>
 <img align='right' src="https://media.giphy.com/media/JEhCPFfqi2Hy8/giphy.gif" width="230">
 <h3 align="center">
     🌱 I’m programming technician  
