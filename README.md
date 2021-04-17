@@ -1,12 +1,12 @@
 
 <h1 align="center"> Hey 👋🏽, I'm @VaninaChachagua  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="http://gph.is/1LrGJRy" width="230">
 <h3 align="center">
     🌱 I’m programming technician  
 </h3>
 <br/>
 
-- 🎮 I’m interested in video games and books 
+- 🎮 I love video games, books and cats
 - 📫 I'm currently working at IBM for the project Naranja 🍊
 - 👀 I'm a very curious person
 - ✨ I'm happy helping others
