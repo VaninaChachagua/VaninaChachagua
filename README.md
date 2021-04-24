@@ -16,8 +16,8 @@
 
 ```javascript
 const nina = {
-  pronouns: "she" | "her",
-  from: Argentina, Córdoba
+  pronouns: 'she' | 'her',
+  from: 'Argentina Córdoba',
   code: [C#, SQL, Javascript, Typescript, HTML, CSS],
   tools: [Angular, Node],
 }
