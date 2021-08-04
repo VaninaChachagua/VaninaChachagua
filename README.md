@@ -7,7 +7,7 @@
 <br/>
 
 - 🎮 I love video games, books and cats
-- 📫 I'm currently working at IBM for the project Naranja 🍊
+- 📫 I'm currently working at NaranjaX 🍊
 - 👀 I'm a very curious person
 - ✨ I'm happy helping others
 - 📖 Always learning
